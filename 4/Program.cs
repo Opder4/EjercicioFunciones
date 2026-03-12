@@ -1,6 +1,6 @@
 ﻿double areacirculo(double a)
 {
-    return a * Math.PI;
+    return a * a *  Math.PI;
 }
 Console.WriteLine("Ingrese el Radio (r) del círculo");
 Console.WriteLine();
