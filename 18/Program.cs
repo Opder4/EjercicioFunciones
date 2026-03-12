@@ -14,6 +14,7 @@
         else
         {
             Console.WriteLine("Precio de compra no válido");
+            i = i - 1;
             Console.WriteLine();
         }
     }
