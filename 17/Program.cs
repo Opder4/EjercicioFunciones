@@ -14,6 +14,7 @@
         else
         {
             Console.WriteLine("Nota no válida");
+            i = i - 1;
             Console.WriteLine();
         }
     }
